@@ -1,0 +1,1 @@
+{\n  \"extends\": \"next/core-web-vitals\",\n  \"rules\": {\n    \"@next/next/no-html-link-for-pages\": \"off\",\n    \"react/display-name\": \"off\",\n    \"react-hooks/exhaustive-deps\": \"warn\"\n  }\n}\n
